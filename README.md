@@ -1,4 +1,5 @@
-Created to get more sparks, maybe someone else can use it
+Created to get more sparks, maybe someone else can use it.
+
 The executable is compiled with g++.
 
  How to use:
